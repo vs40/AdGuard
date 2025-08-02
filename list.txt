@@ -1,6 +1,6 @@
 pikabu.ru###menu-companies > a
-pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.sidebar.sidebar_right:first-child > aside.sidebar__inner > section.sidebar-block.sidebar-block_border.sidebar-block_no-padding.sidebar-game-block:nth-child(3)
 pikabu.ru##.comment__emotions
 pikabu.ru##.feed-games-carousel
-pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.sidebar.sidebar_right:first-child > aside.sidebar__inner > section.sidebar-block.sidebar-block_border.sidebar-block_no-padding.sidebar-game-block:nth-child(4)
 pikabu.ru##.story__emotions
+pikabu.ru##.sidebar-games-block-header
+pikabu.ru##.sidebar-game__link
