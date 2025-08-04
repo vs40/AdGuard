@@ -4,3 +4,8 @@ pikabu.ru##.feed-games-carousel
 pikabu.ru##.story__emotions
 pikabu.ru##.sidebar-games-block-header
 pikabu.ru##.sidebar-game__link
+pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-child > main.main__inner > div.stories-feed:nth-child(3) > div.stories-feed__container:nth-child(5) > article.story.story_tags-at-top:nth-child(4) > div.story__main:last-child
+pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-child > main.main__inner > div.stories-feed:nth-child(3) > div.stories-feed__container:nth-child(5) > article.story:nth-child(4)
+pikabu.ru###specials > img
+pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-child > main.main__inner > div.stories-feed:nth-child(3) > div.stories-feed__container:nth-child(5) > article.story:last-child > div.story__left:first-child
+pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-child > main.main__inner > div.stories-feed:nth-child(3) > div.stories-feed__container:nth-child(5) > article.story:last-child
