@@ -11,3 +11,6 @@ pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-ch
 pikabu.ru##div.app:nth-child(3) > div.app__inner:nth-child(3) > div.main:last-child > main.main__inner > div.stories-feed:nth-child(3) > div.stories-feed__container:nth-child(5) > article.story:last-child
 pikabu.ru##.sidebar-game
 pikabu.ru##.app__host--lHj8OOGT
+pikabu.ru##.gamification-btn
+pikabu.ru##.gamification-tasks-carousel
+pikabu.ru##.gamification-coins
