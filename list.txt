@@ -14,3 +14,4 @@ pikabu.ru##.app__host--lHj8OOGT
 pikabu.ru##.gamification-btn
 pikabu.ru##.gamification-tasks-carousel
 pikabu.ru##.gamification-coins
+pikabu.ru##div.app:nth-child(3) > header.header:first-child > div.header__main:first-child > div.header__inner > div.header__wrapper:last-child > div.header__item.header__menu:first-child > div.header-menu > div.header-menu__item.header-menu__item_tbank:nth-child(7) > a
